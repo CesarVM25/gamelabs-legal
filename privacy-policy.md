@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-This Privacy Policy explains how **[Your App Name]** ("we", "our", or "us") handles information when you use our mobile application.
+This Privacy Policy explains how GameLab ("we", "our", or "us") handles information when you use our mobile application.
 
 Our app is designed to provide entertainment through local multiplayer mini-games and does not require account creation.
 
